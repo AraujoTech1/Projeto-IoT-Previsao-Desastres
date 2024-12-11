@@ -1,4 +1,4 @@
-#Previsão de Desastres com IoT
+# Previsão de Desastres com IoT
 
 ## Descrição do Projeto
 Esse projeto tem como objetivo criar um sistema que usa tecnologia IoT (Internet das Coisas) para monitorar e prever desastres naturais, como enchentes, terremotos, furacões, chuvas fortes, etc. A aplicação ajudará na sustentabilidade e no meio ambiente, permitindo uma melhor preparação para esses eventos e contribuindo para a economia.
