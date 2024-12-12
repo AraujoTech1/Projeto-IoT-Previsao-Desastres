@@ -1,4 +1,4 @@
-# Previsão de Desastres com IoT
+<h1 align="center">Previsão de Desastres com IoT</h1>
 
 ## Descrição do Projeto
 
@@ -21,7 +21,6 @@ Esse projeto tem como objetivo criar um sistema que usa tecnologia IoT (Internet
 ## Teste
 
 O projeto inclui testes simples para verificar a coleta de dados e a geração de alertas.
-
 - Testes Unitários: Realizados para garantir a precisão na coleta e análise dos dados.
 - Testes de Integração: Garantem que o sistema IoT se integre corretamente ao servidor e ao sistema de alertas.
 - Testes de Segurança: Garantem a segurança na comunicação dos dados entre os sensores IoT e o sistema central.
