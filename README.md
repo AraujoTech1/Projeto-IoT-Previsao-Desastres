@@ -12,11 +12,11 @@ Esse projeto tem como objetivo criar um sistema que usa tecnologia IoT (Internet
  
 ## Tecnologias Utilizadas
 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-6DBF47?logo=raspberrypi&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-6DBF47?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Teste
 
